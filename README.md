@@ -1,6 +1,8 @@
 # modsem
 Estimate interaction effects in structural equation models (SEMs) Use modsem With (In) R Software
 
+https://www.youtube.com/watch?v=l05jSU7UCLo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
